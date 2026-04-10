@@ -2,7 +2,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat&logo=swift&logoColor=white)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-UI-0066CC?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%2F%20macOS-000000?style=flat&logo=apple&logoColor=white)](https://developer.apple.com)
+[![Platform](https://img.shields.io/badge/Platform-iOS-000000?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
 [![Keychain](https://img.shields.io/badge/Keychain-Secure%20token%20storage-5856D6?style=flat&logo=icloud&logoColor=white)](https://developer.apple.com/documentation/security/keychain_services)
 [![Concurrency](https://img.shields.io/badge/Concurrency-async%20%2F%20await-F05138?style=flat&logo=swift&logoColor=white)](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html)
 [![XCTest](https://img.shields.io/badge/Tests-XCTest-34C759?style=flat)](https://developer.apple.com/xcode/)
